@@ -1,0 +1,105 @@
+{
+ "stats": {
+  "SSE": {
+   "N": 30,
+   "avg_ranks": {
+    "CCKM": 4.12,
+    "Maxmin": 3.67,
+    "ECKM": 4.22,
+    "KM++": 4.45,
+    "KM++greedy": 4.03,
+    "BF-refine": 2.73,
+    "KM-random": 4.78
+   },
+   "chi2": 17.42,
+   "p": 0.00786
+  },
+  "ARI": {
+   "N": 26,
+   "avg_ranks": {
+    "CCKM": 3.54,
+    "Maxmin": 3.67,
+    "ECKM": 4.94,
+    "KM++": 3.98,
+    "KM++greedy": 3.96,
+    "BF-refine": 2.96,
+    "KM-random": 4.94
+   },
+   "chi2": 18.67,
+   "p": 0.00476
+  },
+  "NMI": {
+   "N": 26,
+   "avg_ranks": {
+    "CCKM": 3.38,
+    "Maxmin": 3.98,
+    "ECKM": 4.6,
+    "KM++": 4.1,
+    "KM++greedy": 3.92,
+    "BF-refine": 2.96,
+    "KM-random": 5.06
+   },
+   "chi2": 17.32,
+   "p": 0.00817
+  },
+  "SH": {
+   "N": 30,
+   "avg_ranks": {
+    "CCKM": 4.1,
+    "Maxmin": 4.58,
+    "ECKM": 4.35,
+    "KM++": 4.07,
+    "KM++greedy": 3.73,
+    "BF-refine": 2.67,
+    "KM-random": 4.5
+   },
+   "chi2": 17.44,
+   "p": 0.00779
+  },
+  "IT": {
+   "N": 30,
+   "avg_ranks": {
+    "CCKM": 4.48,
+    "Maxmin": 3.57,
+    "ECKM": 5.38,
+    "KM++": 4.67,
+    "KM++greedy": 3.02,
+    "BF-refine": 1.4,
+    "KM-random": 5.48
+   },
+   "chi2": 82.13,
+   "p": 1.3e-15
+  }
+ },
+ "winloss_ext": {
+  "Atom": 0.74,
+  "Birch-rg1": 1.0,
+  "Birch-rg2": 1.0,
+  "BreastCancer": 0.47,
+  "Compound": 0.8,
+  "Digits": 0.33,
+  "Engytime": 0.53,
+  "Hepta": 0.0,
+  "Jain": 0.0,
+  "Lsun": 0.0,
+  "MNIST": 0.12,
+  "S1": 0.11,
+  "S2": 0.76,
+  "S3": 0.94,
+  "S4": 0.94,
+  "Spiral": 0.15,
+  "Target": 1.0,
+  "Twodiamonds": 0.78,
+  "Wine": 0.18,
+  "Wingnut": 0.38
+ },
+ "it_wins": 20,
+ "it_holm": {
+  "BF-refine": 0.0001,
+  "KM++greedy": 0.0109,
+  "Maxmin": 0.0412,
+  "KM++": 0.5538,
+  "ECKM": 0.4713,
+  "KM-random": 0.8872
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "SSE": {
+  "avg_ranks": {
+   "CCKM": 4.45,
+   "Maxmin": 2.8,
+   "ECKM": 4.25,
+   "KM++": 4.65,
+   "KM++greedy": 4.2,
+   "BF-refine": 2.7,
+   "KM-random": 4.95
+  },
+  "friedman_chi2": 10.943,
+  "friedman_p": 0.09017
+ },
+ "ARI": {
+  "avg_ranks": {
+   "CCKM": 3.85,
+   "Maxmin": 3.3,
+   "ECKM": 5.35,
+   "KM++": 4.15,
+   "KM++greedy": 3.9,
+   "BF-refine": 2.8,
+   "KM-random": 4.65
+  },
+  "friedman_chi2": 9.724,
+  "friedman_p": 0.1368
+ },
+ "NMI": {
+  "avg_ranks": {
+   "CCKM": 3.65,
+   "Maxmin": 3.5,
+   "ECKM": 4.35,
+   "KM++": 4.45,
+   "KM++greedy": 4.2,
+   "BF-refine": 2.9,
+   "KM-random": 4.95
+  },
+  "friedman_chi2": 6.552,
+  "friedman_p": 0.3643
+ },
+ "SH": {
+  "avg_ranks": {
+   "CCKM": 4.15,
+   "Maxmin": 3.8,
+   "ECKM": 3.45,
+   "KM++": 4.75,
+   "KM++greedy": 4.1,
+   "BF-refine": 3.2,
+   "KM-random": 4.55
+  },
+  "friedman_chi2": 4.322,
+  "friedman_p": 0.6332
+ },
+ "IT": {
+  "avg_ranks": {
+   "CCKM": 3.95,
+   "Maxmin": 3.5,
+   "ECKM": 4.65,
+   "KM++": 5.2,
+   "KM++greedy": 3.25,
+   "BF-refine": 1.3,
+   "KM-random": 6.15
+  },
+  "friedman_chi2": 31.546,
+  "friedman_p": 1.993e-05
+ }
+}

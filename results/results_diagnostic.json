@@ -1,0 +1,42 @@
+{
+ "Iris": {
+  "k": 3,
+  "radial_modes": 2
+ },
+ "Seeds": {
+  "k": 3,
+  "radial_modes": 2
+ },
+ "Ecoli": {
+  "k": 8,
+  "radial_modes": 1
+ },
+ "Tetra": {
+  "k": 4,
+  "radial_modes": 2
+ },
+ "Chainlink": {
+  "k": 2,
+  "radial_modes": 3
+ },
+ "Flame": {
+  "k": 2,
+  "radial_modes": 2
+ },
+ "Pathbased": {
+  "k": 3,
+  "radial_modes": 3
+ },
+ "Aggregation": {
+  "k": 7,
+  "radial_modes": 2
+ },
+ "R15": {
+  "k": 15,
+  "radial_modes": 3
+ },
+ "D31": {
+  "k": 31,
+  "radial_modes": 14
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "SSE": {
+  "raw_p": {
+   "Maxmin": 0.0742,
+   "ECKM": 0.7344,
+   "KM++": 0.3008,
+   "KM++greedy": 0.1602,
+   "BF-refine": 0.0547,
+   "KM-random": 1.0
+  },
+  "holm_p": {
+   "BF-refine": 0.3281,
+   "Maxmin": 0.3711,
+   "KM++greedy": 0.6406,
+   "KM++": 0.9023,
+   "ECKM": 1.0,
+   "KM-random": 1.0
+  }
+ },
+ "ARI": {
+  "raw_p": {
+   "Maxmin": 0.2031,
+   "ECKM": 0.1641,
+   "KM++": 0.7344,
+   "KM++greedy": 0.6953,
+   "BF-refine": 0.5703,
+   "KM-random": 0.4258
+  },
+  "holm_p": {
+   "ECKM": 0.9844,
+   "Maxmin": 1.0,
+   "KM-random": 1.0,
+   "BF-refine": 1.0,
+   "KM++greedy": 1.0,
+   "KM++": 1.0
+  }
+ },
+ "NMI": {
+  "raw_p": {
+   "Maxmin": 0.7344,
+   "ECKM": 0.3594,
+   "KM++": 0.6523,
+   "KM++greedy": 1.0,
+   "BF-refine": 0.7344,
+   "KM-random": 0.3594
+  },
+  "holm_p": {
+   "ECKM": 1.0,
+   "KM-random": 1.0,
+   "KM++": 1.0,
+   "Maxmin": 1.0,
+   "BF-refine": 1.0,
+   "KM++greedy": 1.0
+  }
+ },
+ "SH": {
+  "raw_p": {
+   "Maxmin": 0.6523,
+   "ECKM": 0.8203,
+   "KM++": 0.6523,
+   "KM++greedy": 0.6953,
+   "BF-refine": 0.4258,
+   "KM-random": 0.7344
+  },
+  "holm_p": {
+   "BF-refine": 1.0,
+   "Maxmin": 1.0,
+   "KM++": 1.0,
+   "KM++greedy": 1.0,
+   "KM-random": 1.0,
+   "ECKM": 1.0
+  }
+ },
+ "IT": {
+  "raw_p": {
+   "Maxmin": 0.1797,
+   "ECKM": 0.3594,
+   "KM++": 0.5566,
+   "KM++greedy": 0.1602,
+   "BF-refine": 0.0059,
+   "KM-random": 0.002
+  },
+  "holm_p": {
+   "KM-random": 0.0117,
+   "BF-refine": 0.0293,
+   "KM++greedy": 0.6406,
+   "Maxmin": 0.6406,
+   "ECKM": 0.7188,
+   "KM++": 0.7188
+  }
+ }
+}

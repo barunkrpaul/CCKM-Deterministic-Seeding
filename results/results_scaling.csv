@@ -1,0 +1,16 @@
+n,method,seed_time_s
+10000,CCKM(equal),0.0016
+10000,CCKM(quantile),0.0022
+10000,Maxmin,0.003
+10000,KM++greedy,0.0031
+10000,KM++vanilla,0.0039
+100000,CCKM(equal),0.0147
+100000,CCKM(quantile),0.0216
+100000,Maxmin,0.032
+100000,KM++greedy,0.0286
+100000,KM++vanilla,0.0379
+1000000,CCKM(equal),0.1648
+1000000,CCKM(quantile),0.212
+1000000,Maxmin,0.4057
+1000000,KM++greedy,0.2887
+1000000,KM++vanilla,0.3987

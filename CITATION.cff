@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the preprint below."
+title: "CCKM: polar-grid (concentric-circle) seeding for k-means"
+authors:
+  - family-names: Paul
+    given-names: Barun Kr.
+  - family-names: Giri
+    given-names: Kinsuk
+license: MIT
+repository-code: "https://github.com/barunkrpaul/CCKM-Deterministic-Seeding"
+preferred-citation:
+  type: article
+  title: "CCKM: A Modified k-means Clustering using Concentric Circles"
+  authors:
+    - family-names: Paul
+      given-names: Barun Kr.
+    - family-names: Giri
+      given-names: Kinsuk
+  year: 2026
+  journal: "Research Square (preprint)"
+  doi: "10.21203/rs.3.rs-10665044/v1"

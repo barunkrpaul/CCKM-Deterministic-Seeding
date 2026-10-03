@@ -1,0 +1,82 @@
+{
+ "S1": {
+  "k": 15,
+  "modes": 4
+ },
+ "S2": {
+  "k": 15,
+  "modes": 5
+ },
+ "S3": {
+  "k": 15,
+  "modes": 4
+ },
+ "S4": {
+  "k": 15,
+  "modes": 2
+ },
+ "Jain": {
+  "k": 2,
+  "modes": 2
+ },
+ "Spiral": {
+  "k": 3,
+  "modes": 4
+ },
+ "Compound": {
+  "k": 6,
+  "modes": 2
+ },
+ "Atom": {
+  "k": 2,
+  "modes": 3
+ },
+ "Hepta": {
+  "k": 7,
+  "modes": 1
+ },
+ "Lsun": {
+  "k": 3,
+  "modes": 3
+ },
+ "Target": {
+  "k": 6,
+  "modes": 2
+ },
+ "Twodiamonds": {
+  "k": 2,
+  "modes": 1
+ },
+ "Wingnut": {
+  "k": 2,
+  "modes": 3
+ },
+ "Engytime": {
+  "k": 2,
+  "modes": 1
+ },
+ "Birch-rg1": {
+  "k": 100,
+  "modes": 36
+ },
+ "Birch-rg2": {
+  "k": 100,
+  "modes": 27
+ },
+ "MNIST": {
+  "k": 10,
+  "modes": 1
+ },
+ "Digits": {
+  "k": 10,
+  "modes": 2
+ },
+ "Wine": {
+  "k": 3,
+  "modes": 2
+ },
+ "BreastCancer": {
+  "k": 2,
+  "modes": 1
+ }
+}
